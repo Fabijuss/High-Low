@@ -1,23 +1,16 @@
 # High-Low
-## I. Initiative
-## II. Epics and User Stories
-### II.1. Epics
- #### II.1.1 
- #### II.1.2 
- #### II.1.3 
- #### II.1.4 
- ### II.2 User Stories
- #### II.2.1 Controls
- ### II.3 Non-functional Requirements
- #### II.3.1 
- ### II.4 How We Addressed The Requirements
-## III. Genre
-## IV. Technical details
-### IV.1 Platform
-### IV.2 Programming Language/Enviroment
-### IV.3 Programming Challenges
-### IV.4 Constructing And Implementing My Code
-### IV.5 Algorithms
-### IV.6 Coding Standards
-## V. Research
-## VI. Project management
+## I. Epics and User Stories
+ ### I.1. Epic
+ ### I.2 User Stories
+ ### I.3 Non-functional Requirements
+ ### I.4 How We Addressed The Requirements
+## II. Genre
+## III. Technical details
+### III.1 Platform
+### III.2 Programming Language/Enviroment
+### III.3 Programming Challenges
+### III.4 Constructing And Implementing My Code
+### III.5 Algorithms
+### III.6 Coding Standards
+## IV. Research
+## V. Project management
