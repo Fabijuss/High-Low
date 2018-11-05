@@ -9,10 +9,20 @@ using namespace std;
 int main() 
 { 
   int cPick;
+  int pPick;
   /* Generates random seed using the current time */
   srand(time(NULL));
   /* Generates a random number between 1-10 using time seed */
   cPick = rand() % 10 + 1;
+  pPick = rand() % 10 + 1;
+  
+  if (cPick > pPick)
+    cout << "Computer wins!" << endl;
+  else if (cPick < pPick)
+     cout << "Player wins!" << endl;
+  else
+    cout << "It's a tie!" << endl;
 
-  cout << "The computer rolled: " << cPick << endl; 
+  cout << "The computer rolled: " << cPick << endl;
+  cout << "The player rolled: " << pPick << endl;
 }
