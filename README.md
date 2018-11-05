@@ -28,7 +28,7 @@ V. [Project management](#V-project-management)
  The computer must generate a random number between 1 and 10(inclusive). The method for generating these numbers will have to be random every time. Two numbers will be generated this way, the computer roll, and then the player roll. These numbers will be compared, this will create the win condition if the player guesses their number is higher or lower than the computer roll. If they player guesses incorrectly, it will determine whether they lost or if it is a tie.
  #### Input
  The player must be able to input their choice when the program asks them to pick "higher or lower". There should only be two options, and any other choices should be invalid. The format for the choice must be string in order to avoid errors. 
- #### Win/Lose
+ #### Win-Lose
  Based on the number the computer picks, and the guess the player chooses, the game should output either a "You win!" or "You lose!" message. If the game ends in a tie, then a "It's a tie!" message should appear instead. 
  
   #### Restart game
