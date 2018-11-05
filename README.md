@@ -18,8 +18,8 @@ III. [Technical details](#technical-details)
     III.4 [Constructing And Implementing My Code](#constructing-and-implementing-my-code)  
     III.5 [Algorithms](#algorithms)  
     III.6 [Coding Standards](#coding-standards)  
-IV. [Research](#IV-research)  
-V. [Project management](#V-project-management)  
+IV. [Research](#research)  
+V. [Project management](#project-management)  
 ## Epics and User Stories
  ### Epic
   This is a game where the player rolls a 10-sided dice and guesses whether the number they rolled is higher or lower than the number the computer picks.
