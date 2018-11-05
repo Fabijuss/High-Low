@@ -45,4 +45,7 @@ V. [Project management](#V-project-management)
 ### Algorithms
 ### Coding Standards
 ## Research
+srand (http://www.cplusplus.com/reference/cstdlib/srand/  
+logical operators http://www.cplusplus.com/doc/tutorial/operators/  
+do while loop (http://www.cplusplus.com/doc/tutorial/control/)
 ## Project management
