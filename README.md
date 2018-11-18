@@ -20,6 +20,7 @@ III. [Technical details](#technical-details)
     III.6 [Coding Standards](#coding-standards)  
 IV. [Research](#research)  
 V. [Project management](#project-management)  
+    V.1 [Flowchart](#flowchart)
 ## Epics and User Stories
  ### Epic
   This is a game where the player rolls a 10-sided dice and guesses whether the number they rolled is higher or lower than the number the computer picks.
@@ -49,3 +50,5 @@ srand (http://www.cplusplus.com/reference/cstdlib/srand/)
 logical operators (http://www.cplusplus.com/doc/tutorial/operators/)  
 do while loop (http://www.cplusplus.com/doc/tutorial/control/)
 ## Project management
+### Flowchart
+![High or low flowchart](https://imgur.com/a/LVQ8GRH)
