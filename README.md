@@ -51,4 +51,4 @@ logical operators (http://www.cplusplus.com/doc/tutorial/operators/)
 do while loop (http://www.cplusplus.com/doc/tutorial/control/)
 ## Project management
 ### Flowchart
-![High or low flowchart](https://imgur.com/a/LVQ8GRH)
+![High or low flowchart](https://i.imgur.com/b6kF6yM.png)
