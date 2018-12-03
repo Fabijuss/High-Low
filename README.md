@@ -2,25 +2,25 @@
  ---
 ### Contents
 I. [Epics and User Stories](#-epics-and-user-stories)  
-    I.1 [Epic](#epic)  
-I.2 [User Stories](#user-stories)  
-    I.2.1 [Number generation](#number-generation)  
-    I.2.2 [Input](#input)  
-    I.2.3 [Win/lose](#win-lose)  
-    I.2.3 [Restart game](#restart-game)  
-I.3 [Non-functional Requirements](#non-functional-requirements)  
-I.4 [How We Addressed The Requirements](#how-we-addressed-the-requirements)  
+&nbsp;&nbsp;I.1 [Epic](#epic)  
+&nbsp;&nbsp;I.2 [User Stories](#user-stories)  
+&nbsp;&nbsp;&nbsp;&nbsp;I.2.1 [Number generation](#number-generation)  
+&nbsp;&nbsp;&nbsp;&nbsp;I.2.2 [Input](#input)  
+&nbsp;&nbsp;&nbsp;&nbsp;I.2.3 [Win/lose](#win-lose)  
+&nbsp;&nbsp;&nbsp;&nbsp;I.2.3 [Restart game](#restart-game)  
+&nbsp;&nbsp;I.3 [Non-functional Requirements](#non-functional-requirements)  
+&nbsp;&nbsp;I.4 [How We Addressed The Requirements](#how-we-addressed-the-requirements)  
 II. [Genre](#genre)  
 III. [Technical details](#technical-details)  
-    III.1 [Platform](#platform)  
-    III.2 [Programming Language/Enviroment](#programming-language/environment)  
-    III.3 [Programming Challenges](#programming-challenges)  
-    III.4 [Constructing And Implementing My Code](#constructing-and-implementing-my-code)  
-    III.5 [Algorithms](#algorithms)  
-    III.6 [Coding Standards](#coding-standards)  
+&nbsp;&nbsp;III.1 [Platform](#platform)  
+&nbsp;&nbsp;III.2 [Programming Language/Environment](#programming-language-and-environment)  
+&nbsp;&nbsp;III.3 [Programming Challenges](#programming-challenges)  
+&nbsp;&nbsp;III.4 [Constructing And Implementing My Code](#constructing-and-implementing-my-code)  
+&nbsp;&nbsp;III.5 [Algorithms](#algorithms)  
+&nbsp;&nbsp;III.6 [Coding Standards](#coding-standards)  
 IV. [Research](#research)  
 V. [Project management](#project-management)  
-    V.1 [Flowchart](#flowchart)
+&nbsp;&nbsp;V.1 [Flowchart](#flowchart)
 ## Epics and User Stories
  ### Epic
   This is a game where the player rolls a 10-sided dice and guesses whether the number they rolled is higher or lower than the number the computer picks.
@@ -40,7 +40,7 @@ V. [Project management](#project-management)
 ## Genre
 ## Technical details
 ### Platform
-### Programming Language/Enviroment
+### Programming Language and Environment
 ### Programming Challenges
 ### Constructing And Implementing My Code
 ### Algorithms
