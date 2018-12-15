@@ -56,7 +56,7 @@ The game is a command-line based single-player guessing game against a computer.
 
 ## Technical details
 ### Platform
-The program was created using an online IDE named ![repl.it](https://repl.it/) This IDE has a number of features which increases ease of use during the development process.
+The program was created using an online IDE named ![repl.it](https://repl.it/). This IDE has a number of features which increases ease of use during the development process.
 
 ### Programming Language and Environment
 The language used for this project is C++.
