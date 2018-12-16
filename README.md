@@ -155,7 +155,7 @@ Not:
      variable-name   
 
 #### Comments   
-Should be above the code, using // to comment. No inline comments.  
+Should be above the code, using */ to comment. No inline comments.  
 Example:  
 
     /* this is code   */
